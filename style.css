@@ -1,6 +1,24 @@
-body{font-size: 20px;
-text-align: center;
-background-color: gray;}
+body{
+    
+    font-size: 20px;
+    }
 
+.imagem1{align-items: baseline;}
 
-.destaque{color: red;}
+.destaque{color: red;
+}
+
+.principal{background-color: gray;
+    text-align: center;}
+
+.itens {
+    font-style: italic;
+}
+
+ul  {
+    display: inline-block;
+}
+
+.beneficio {width: 100%;}
+
+h2 {text-align: center;}
